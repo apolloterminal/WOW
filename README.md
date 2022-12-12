@@ -1,0 +1,130 @@
+# apolloterminal.github.io
+WOW
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Healer App</title>
+
+  <style>
+    *{
+      box-sizing: border-box;
+    }
+    
+    body 
+    {
+      background-color: #C0CAC0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      margin: 0;
+
+     }
+
+    #header {
+      color: #CA0CA0;
+      font-size: 70px; 
+    }
+
+    .headers {
+      text-align: center;
+    }
+
+    .content{
+      font-size: 45px; 
+      text-align: center;
+    }
+
+
+    
+  </style>
+</head>
+
+<body>
+
+
+
+
+  
+  <h1 class="headers" id="header"> Apollo#5236 Healer Raid Application</h1>
+
+<div class = "content">
+
+  <h2 class="headers" id="availability">Spec Availability for Raid</h2>
+
+
+<!--   <p>
+    Current Availability By Spec:
+  </p> -->
+  <p>
+    Restoration Shaman: Available
+
+  </p>
+  <p>
+    Holy Paladin: Available
+  </p>
+  <p>
+    Restoration Druid: Available
+  </p>
+  <p>
+    Holy Priest: Available
+  </p>
+  <p>
+    Mistweaver Monk: Available
+  </p>
+  
+  <p>
+    Preservation / Discipline Priest: Prefer Not To Play as of current
+  </p>
+
+  
+  <h2 class="headers" id="spec">Raid Time Availability</h2>
+  <p>
+    Currently commited to zero raids. Looking to raid with up to two guilds. 24/7 raid availibility currently. Will update.
+  </p>
+  <h2 class="headers" id="history">My Raid History</h2>
+  <p>
+    I started playing WOW half-way through 8.3. Ended 7/12 in Mythic Nyalotha on Mistweaver.
+    Applicable Logs: 
+  <a href='https://www.warcraftlogs.com/character/id/55053402?zone=24#metric=hps'>Nyalotha Logs Mistweaver</a>
+  </p>
+  <p>
+    In 9.1 I joined a new guild as healer lead, swapped from Mistweaver to Restoration Shaman. Guild disbanded due to roster boss at 4/10M. Helped some friends get 5/10 with their group and didn't seek a raid guild for the rest of the tier.
+  </p>
+  In 9.2 I joined a guild that I believed had CE potential, @ 5/10M I gave up my raid spot because I had a college course get cancelled and had to join a new course in order to graduate, that course conflicted with raid time. Guild got CE in 9.2 but I didn't raid beyound 5/10. (Shoulda-Coulda-Really-Wish-I-Woulda). Applicable Logs: 
+  <a href='https://www.warcraftlogs.com/character/id/60563465#zone=28&metric=hps'>SOD LOGS Shaman</a>
+  
+  <p>
+    Did not play in 9.3
+  </p>
+  <p>
+    Did not play in 9.4
+  </p>
+  <p>
+    Current 10.1: I am seeking one or two guilds to Raid with seeking CE. I have played Rsham, Hpal, MW in mythic raid content. I picked up Rdruid, Holy, Disc in 9.1. Evoker I will probably only do some M+ on. Not looking for any sorta of guild/raid leadership but I do enjoy a good planning session.
+  I do Mythic Raiding / Mid-High M+ / PvP 
+    
+  </p>
+
+      <p>
+<a href='https://www.warcraftlogs.com/character/id/60563465#zone=28&metric=hps'>Current UI Example - Pending Some Changes</a>
+    
+  </p>
+    <p>
+Thanks for coming to my ted-talk.
+    
+
+  
+</div>
+
+    <script src="script.js">
+
+      Console.log("Starting")
+    </script>
+</body>
+
+</html>
